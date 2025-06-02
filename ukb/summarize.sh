@@ -19,7 +19,7 @@ for arg in "$@"; do
         --json) OUTPUT_JSON=true ;;
         --xml) OUTPUT_XML=true ;;
         --haiku) OUTPUT_HAIKU=true ;;
-        *) TARGET_DIR=$arg ;;
+        *) TARGET_DIR=$arg ;;    
     esac
 done
 
