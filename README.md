@@ -273,3 +273,4 @@ Let **ukulinda.sh** be the script that:
 * Triggers `--dry-run` workflows
 
 It's the epistemic *pre-deploy*—not just CI, but **Consequential Intuition**.
+# flick 20250602193212-iJ6P
