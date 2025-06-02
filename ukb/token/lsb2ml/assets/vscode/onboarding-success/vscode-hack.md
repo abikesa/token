@@ -67,3 +67,4 @@ Forget SATs unless you're forced. SSH is the grown-up way. It's stable, invisibl
 If your intern sets up SSH, this crap is over—for good.
 
 Want me to generate the key and push instructions as a printed card for your intern? Or inject it into a training repo `README.md`? Say the word—I'll ship it.
+# flick 20250602174426-b4if
