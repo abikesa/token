@@ -19,7 +19,7 @@ th, td {
 .done {
   color: #4caf50;
 }
-.overdue {
+.overdue {  
   color: #f44336;
 }
 .upcoming {
