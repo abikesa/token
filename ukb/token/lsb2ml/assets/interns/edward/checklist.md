@@ -108,3 +108,4 @@ _(Add notes here...)_
 * **Excels at:** pattern recognition, media translation (e.g., ESPN-to-dashboard logic), quick uptake on baseball analytics language.
 
 ---# flick 20250530033035-lXnk
+# flick 20250602174425-G9P2
